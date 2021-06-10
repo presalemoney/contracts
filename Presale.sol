@@ -249,6 +249,7 @@ contract Presale is ReentrancyGuard {
     }
 
     function addLiquidity() external nonReentrant {
+        require(msg.sender == presaleInfo.presaleOwner, "Not Presale Owner!");
         require(!status.LP_GENERATION_COMPLETE, 'GENERATION COMPLETE');
         require(presaleStatus() == 2, 'NOT SUCCESS'); // SUCCESS
         require(isPresaleTaxless(), 'PRESALE NOT TAXLESS!');
