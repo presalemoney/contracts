@@ -12,4 +12,4 @@
 
 - Verify: [0x8d0B4BcfC591784b9C6aB10b2aB38D73b8A75E6d](https://ftmscan.com/address/0x8d0B4BcfC591784b9C6aB10b2aB38D73b8A75E6d)
 
-- PresaleGenerator: [0x13E212C71617804c4fD953BacB91ae774B383Ea2](https://ftmscan.com/address/0x13E212C71617804c4fD953BacB91ae774B383Ea2)
+- PresaleGenerator: [0x5B1199FD814a0Fc6e6DDEfC20ED467cB88B0D894](https://ftmscan.com/address/0x13E212C71617804c4fD953BacB91ae774B383Ea2)
